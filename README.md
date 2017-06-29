@@ -1,28 +1,27 @@
-# Landing Page Jekyll theme
+<p align="center"><a href="https://bosnaufal.github.io/vue-mini-shop"><img src="./assets/img/logo.png" width="175px" alt="Vue Mini Shop"/></a></p>
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+# Vue Mini Shop
+Mini Online Shop Built With Vue JS and some of my plugins. It has enough features for starting build an Online Shop with Vue JS! You can use it, but don't forget to give me a credit link~
 
-## How to use
- - Place a image in `/img/services/`
- - Create posts to display your services. Use the follow as an example:
+## [LIVE](https://bosnaufal.github.io/vue-mini-shop)
 
-```txt
----
-layout: default
-img: ipad.png
-category: Services
-title: The service title
----
-The description of this service
+## Now You can work with it
+```bash
+npm install
+npm run dev
+#or
+gulp
 ```
-===
 
-For more Jekyll details, read [documentation](http://jekyllrb.com/).
-This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
+## Thank You for Making this become useful~
+Hopefully it can be useful for your next projects.
+
+## Need More?
+Just Contact Me At:
+- Email: [bosnaufalemail@gmail.com](mailto:bosnaufalemail@gmail.com)
+- Skype Id: bosnaufal254
+- twitter: [@BosNaufal](https://twitter.com/BosNaufal)
 
 ## License
-The contents of this repository are licensed under the [Apache
-2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
-
-## Version
-1.0.1
+[MIT](http://opensource.org/licenses/MIT)
+Copyright (c) 2016 - forever Naufal Rabbani
